@@ -1,5 +1,5 @@
 {
-  "name": "@ignite-ui/docs",
+  "name": "@ignite-phobia-ui/docs",
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
@@ -13,10 +13,10 @@
   "author": "",
   "license": "ISC",
   "devDependencies": {
-    "@ignite-ui/eslint-config": "*",
-    "@ignite-ui/react": "*",
-    "@ignite-ui/tokens": "*",
-    "@ignite-ui/ts-config": "*",
+    "@ignite-phobia-ui/eslint-config": "*",
+    "@ignite-phobia-ui/react": "*",
+    "@ignite-phobia-ui/tokens": "*",
+    "@ignite-phobia-ui/ts-config": "*",
     "@storybook/addon-essentials": "^7.2.2",
     "@storybook/addon-interactions": "^7.2.2",
     "@storybook/addon-links": "^7.2.2",
