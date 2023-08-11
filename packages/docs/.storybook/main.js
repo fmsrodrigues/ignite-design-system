@@ -28,5 +28,12 @@ const config = {
   docs: {
     autodocs: true,
   },
+  viteFinal: (config, { configType }) => {
+    if(configType === 'PRODUCTION') {
+      config.base = '/ignite-design-system/' //this is the repo name
+    }
+
+    return config
+  }
 };
 export default config;
